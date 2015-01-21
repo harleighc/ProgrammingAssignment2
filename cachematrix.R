@@ -1,7 +1,6 @@
 
-## makeCacheMatrix() is a function that creates a list of functions
-
-## 1. set() - this sets the matrix to be inversed
+## makeCacheMatrix() is a function that creates a list of functions.  
+## 1. set() - this sets the matrix to be inversed and removes the cached inverse matrix
 ## 2. get() - if a matrix is set this returns the set matrix
 ## 3. setinverse() - sets the inverse of a matrix
 ## 4. getinverse() -  if an inverse matrix is set this returns the inverse matrix
